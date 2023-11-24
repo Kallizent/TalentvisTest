@@ -5,7 +5,7 @@
 
 include 'Finance.php';
 ?>
-<h1>Silahkan memilih proses</h1>
+<h1>Please select a process</h1>
 
 <ol>
   <li><button  onclick="window.location.href = 'deposit.php'">Deposit</button></li> <br>
